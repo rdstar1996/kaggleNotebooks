@@ -1,0 +1,8 @@
+.venv/
+.ipynb_checkpoints/
+data/
+statisticsPractice.ipynb
+pandas revision.ipynb
+numpy revision.ipynb
+PlotlyBasics.ipynb
+LinerRegressionFromScratch.ipynb
